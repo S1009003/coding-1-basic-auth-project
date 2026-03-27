@@ -5,7 +5,7 @@ APP PLANNING & DESIGN
 1. PROJECT NAME & THEME
 -------------------------
 - What is your app called, and what type of app is it?  Twister online
-- What style or vibe do you want users to experience?   Cool, calm and collected take on the classic party game
+- What style or vibe do you want users to experience?   Cool, calm and collected artstyle taken from board games
 - What about your app will require a log-in structure?  
 
 2. CORE FUNCTIONALITY
