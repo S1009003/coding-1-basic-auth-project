@@ -6,30 +6,31 @@ APP PLANNING & DESIGN
 -------------------------
 - What is your app called, and what type of app is it?  Twister online
 - What style or vibe do you want users to experience?   Cool, calm and collected artstyle taken from board games
-- What about your app will require a log-in structure?  
+- What about your app will require a log-in structure?  Entering the site
 
 2. CORE FUNCTIONALITY
 -------------------------
-- What are the essential features your app must have?  
-- What optional features could make your app more interactive or personalized?
+- What are the essential features your app must have?  Some type of authentication (Username, password)
+- What optional features could make your app more interactive or personalized? A picture inputter to have the user put their own photos
 
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  
-- Will this content change depending on who is using the app (admin, user, special user?)
+- What content will users see after logging in?  A picture of twister
+- Will this content change depending on who is using the app (admin, user, special user?) No
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
-- How should your app look and feel?
-- How will users navigate between pages?
+- How should your app look and feel? It should look relatively bland and feel very neutral
+- How will users navigate between pages? There will be a button they can press toward the bottom of the page 
 
 5. SECURITY FEATURES
 -------------------------
-- What password and authentication rules will you enforce?  
-- How will you protect secret pages from unauthorized access?
+- What password and authentication rules will you enforce?  They need to make a username and password and confirm 
+those. Every time they log in they need to put their user and pass
+- How will you protect secret pages from unauthorized access? Make them private???
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy?
-- Are there interactive elements, like games, quizzes, or badges, you could include?
+- What customization or fun features could users enjoy? A fun picture or maybe a picture inputter
+- Are there interactive elements, like games, quizzes, or badges, you could include? Potentially, but most likely no
