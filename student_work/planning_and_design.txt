@@ -16,7 +16,7 @@ APP PLANNING & DESIGN
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  A picture of a twister
+- What content will users see after logging in?  A picture of a twister and a quiz about twisters
 - Will this content change depending on who is using the app (admin, user, special user?) No
 
 4. USER EXPERIENCE (UX) DESIGN
