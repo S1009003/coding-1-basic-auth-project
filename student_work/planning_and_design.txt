@@ -16,8 +16,8 @@ APP PLANNING & DESIGN
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  A picture of a twister and a quiz about twisters
-- Will this content change depending on who is using the app (admin, user, special user?) No
+- What content will users see after logging in?  A picture of a twister and No quiz about twisters
+- Will this content change depending on who is using the app (admin, user, special user?) Yes; users can input their own pictures
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
@@ -32,5 +32,5 @@ those. Every time they log in they need to put their user and pass
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy? A fun picture or maybe a picture inputter
+- What customization or fun features could users enjoy? A fun picture and a picture inputter
 - Are there interactive elements, like games, quizzes, or badges, you could include? Potentially, most likely yes.
