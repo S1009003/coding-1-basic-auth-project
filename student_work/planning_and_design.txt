@@ -17,7 +17,7 @@ APP PLANNING & DESIGN
 
 -------------------------
 - What content will users see after logging in?  A picture of a twister and No quiz about twisters
-- Will this content change depending on who is using the app (admin, user, special user?) Yes; users can input their own pictures
+- Will this content change depending on who is using the app (admin, user, special user?) Yes; users can get random images generated
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
