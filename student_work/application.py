@@ -18,7 +18,7 @@ body {
     height: 100vh;
 }
 .card {
-    background: white;
+    background: navy;
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -51,7 +51,7 @@ a {
     text-decoration: none;
 }
 .error {
-    color: red;
+    color: white;
     margin-top: 10px;
 }
 </style>
