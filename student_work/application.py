@@ -10,7 +10,7 @@ users = {
 base_style = """
 <style>
 body {
-    font-family: Arial, sans-serif;
+    font-family: manrope, montserrat;
     background: #f4f6f8;
     display: flex;
     justify-content: center;
