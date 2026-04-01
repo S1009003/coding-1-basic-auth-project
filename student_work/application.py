@@ -22,7 +22,7 @@ body {
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    width: 300px;
+    width: 299px;
     text-align: center;
 }
 input {
